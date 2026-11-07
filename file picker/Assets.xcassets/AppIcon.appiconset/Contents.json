@@ -1,51 +1,61 @@
 {
   "images" : [
     {
+      "filename" : "01a0001c-87c8-7000-be90-1f266ffc56c1.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
+      "filename" : "01a0001c-87c8-7000-be90-1f266ffc56c1 1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
+      "filename" : "01a0001c-87c8-7000-be90-1f266ffc56c1 4.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
+      "filename" : "01a0001c-87c8-7000-be90-1f266ffc56c1 5.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
     },
     {
+      "filename" : "01a0001c-87c8-7000-be90-1f266ffc56c1 3.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "128x128"
     },
     {
+      "filename" : "01a0001c-87c8-7000-be90-1f266ffc56c1 2.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
     },
     {
+      "filename" : "01a0001c-87c8-7000-be90-1f266ffc56c1 7.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
     },
     {
+      "filename" : "01a0001c-87c8-7000-be90-1f266ffc56c1 6.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
     },
     {
+      "filename" : "01a0001c-87c8-7000-be90-1f266ffc56c1 8.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "512x512"
     },
     {
+      "filename" : "01a0001c-87c8-7000-be90-1f266ffc56c1 9.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"
